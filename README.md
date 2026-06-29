@@ -15,6 +15,7 @@ See the BOM in [bom.csv](bom.csv) or at the end of file
 ![alt text](scheme.png)
 
 **Case:**
+![image.png](https://cdn.hackclub.com/019f146d-043e-75e1-9ee3-acab44ccac7b/image.png)
 [Asset1](assets/assemblie.obj)
 [Asset2](assets/CaseOBDCar.obj)
 
