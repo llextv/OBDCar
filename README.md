@@ -18,6 +18,8 @@ See the BOM in [bom.csv](bom.csv) or at the end of file
 [Asset1](assets/assemblie.obj)
 [Asset2](assets/CaseOBDCar.obj)
 
+[Asset3 STL](assets/CaseOBDCar.stl)
+
 **Script**
 ```c
 #include <WiFi.h>
