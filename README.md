@@ -14,6 +14,10 @@ See the BOM in [bom.csv](bom.csv) or at the end of file
 **Scheme:**
 ![alt text](scheme.png)
 
+**Case:**
+[Asset1](assets/assemblie.obj)
+[Asset2](assets/CaseOBDCar.obj)
+
 **Script**
 ```c
 #include <WiFi.h>
@@ -169,7 +173,6 @@ void loop() {
 **Files**
 [Code](code/code.ino)
 [Scheme](scheme.png)
-
 
 ## BOM
 | Catégorie     | Article                               | Quantité | Prix unitaire (€) | Prix total (€) | Notes               | URL                                                                                                          |
