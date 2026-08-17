@@ -7,6 +7,12 @@ Features:
 - Work with software in command line
 - Allow us to get capter value and editing errors
 
+## Why make it ? 
+For detect and repair a Car easely and for cheap, because taking it to the mechanic to have the OBD port scanned costs way too much for what it actually is.
+
+## Works ?
+Simply connect the PC (using Wi-Fi for the connection) and the unit via OBD, then use the commands to scan the onboard computer (commands available in the code).
+
 ## Hardware
 See the BOM in [bom.csv](bom.csv) or at the end of file
 
