@@ -21,7 +21,7 @@ See the BOM in [bom.csv](bom.csv) or at the end of file
 ![alt text](scheme.png)
 
 **Case:**
-![alt text](image.png)
+![alt text](image-1.png)
 [Asset1](assets/AssemblyCaseOBD.step)
 [Asset2](assets/CaseOBDCar.step)
 
