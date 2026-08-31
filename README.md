@@ -185,10 +185,10 @@ void loop() {
 [Scheme](scheme.png)
 
 ## BOM
-| Catégorie     | Article                               | Quantité | Prix unitaire (€) | Prix total (€) | Notes               | URL                                                                                                          |
-| ------------- | ------------------------------------- | -------: | ----------------: | -------------: | ------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Controls      | ESP-WROOM-32                          |        1 |              0.00 |           0.00 | Déjà en possession  |                                                                                                              |
-| Connectique   | Wires                                 |        1 |              0.00 |           0.00 | Déjà en possession  |                                                                                                              |
-| Communication | SN65HVD230 CAN Bus Transceiver Module |        1 |              0.64 |           0.64 |                     | [https://fr.aliexpress.com/item/1005012405624552.html](https://fr.aliexpress.com/item/1005012405624552.html) |
-| Connectique   | OBD2 Male Connector                   |        1 |              8.19 |           8.19 |                     | [https://fr.aliexpress.com/item/1005012437469335.html](https://fr.aliexpress.com/item/1005012437469335.html) |
-| **TOTAL**     |                                       |          |                   |      **8.65** |                     |                                                                                                              |
+| Catégorie     | Article                               | Quantité | Prix unitaire ($) | Prix total ($) | Notes              | URL                                                                                                          |
+| ------------- | ------------------------------------- | -------: | ----------------: | -------------: | ------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Controls      | ESP-WROOM-32                          |        1 |              0.00 |           0.00 | Déjà en possession |                                                                                                              |
+| Connectique   | Wires                                 |        1 |              0.00 |           0.00 | Déjà en possession |                                                                                                              |
+| Communication | SN65HVD230 CAN Bus Transceiver Module |        1 |              0.74 |           0.74 |                    | [https://fr.aliexpress.com/item/1005012405624552.html](https://fr.aliexpress.com/item/1005012405624552.html) |
+| Connectique   | OBD2 Male Connector                   |        1 |              9.50 |           9.50 |                    | [https://fr.aliexpress.com/item/1005012437469335.html](https://fr.aliexpress.com/item/1005012437469335.html) |
+| **TOTAL**     |                                       |          |                   |      **10.24** |                    |                                                                                                              |
