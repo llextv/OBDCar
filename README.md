@@ -8,10 +8,28 @@ Features:
 - Allow us to get capter value and editing errors
 
 ## Why make it ? 
-For detect and repair a Car easely and for cheap, because taking it to the mechanic to have the OBD port scanned costs way too much for what it actually is.
+Commercial OBD interfaces are easy to find, but they are often more expensive than necessary for simple diagnostic tasks.
+
+The goal of this project was to build a basic and affordable alternative using commonly available components. It is also a useful way to learn how OBD-II, CAN bus and Wi-Fi communication work together.
+
+The total component cost is approximately €8.65, excluding parts and tools already available.
 
 ## Works ?
 Simply connect the PC (using Wi-Fi for the connection) and the unit via OBD, then use the commands to scan the onboard computer (commands available in the code).
+
+## What is OBDCar?
+OBDCar is a low-cost diagnostic interface for reading basic information from a vehicle.
+
+It can currently:
+
+- Read engine RPM
+- Read vehicle speed
+- Read coolant temperature
+- Read stored diagnostic trouble codes
+- Clear diagnostic trouble codes
+- Request the vehicle identification number
+
+The ESP32 creates its own Wi-Fi network. Once connected, the computer can communicate with the interface using a TCP connection.
 
 ## Hardware
 See the BOM in [bom.csv](bom.csv) or at the end of file
